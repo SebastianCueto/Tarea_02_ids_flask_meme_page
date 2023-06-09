@@ -12,7 +12,7 @@ Instalar las dependencias
 
 `pip install -r requirements.txt`
 
-`run ./main.py`
+`./main.py` o ejecutar el archivo main.py
 
 El enlace de la pagweb o el placeholder aparecera en la terminal
 

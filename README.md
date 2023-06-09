@@ -10,13 +10,14 @@ framework Flask
 
 ## Ejecutar los siguientes comandos en la terminal
 
-Clonar el repositorio
+#### Clonar el repositorio
 
 `git clone https://github.com/SebastianCueto/Tarea_02_ids_flask_meme_page.git`
 
-Instalar las dependencias
+#### Instalar las dependencias
 
 `pip install -r requirements.txt`
+#### Finalmente ejecutar el archivo main.py
 
 `./main.py` o ejecutar el archivo main.py //se puede hacer desde su editor de codigo o ide preferido
 

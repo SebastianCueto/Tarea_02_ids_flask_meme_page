@@ -1,6 +1,9 @@
 # Tarea02-IDS
 ## Se trata acerca de una pagina de memes usando una api donde la pagina se recarga automaticamente cada 10s
+# Rrequisitos
 
+python 2.7 o superior
+framework Flask
 
 # Para correr o hostear la pagina:
 

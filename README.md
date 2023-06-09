@@ -3,6 +3,7 @@
 # Rrequisitos
 
 python 2.7 o superior
+
 framework Flask
 
 # Para correr o hostear la pagina:

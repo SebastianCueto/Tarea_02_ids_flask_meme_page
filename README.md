@@ -17,3 +17,7 @@ Instalar las dependencias
 El enlace de la pagweb o el placeholder aparecera en la terminal
 
 `http://127.0.0.1:5000/`
+
+## Advertencia:
+
+La pagina web aparecere siempre que el archivp main.py se mantenga en ejecucion de otro modo no se ejecutara el hosteo.

@@ -4,6 +4,10 @@
 
 python 2.7 o superior
 
+https://www.python.org/downloads/
+
+instalar la version de python para su sistema operativo 
+
 framework Flask
 
 # Para correr o hostear la pagina:

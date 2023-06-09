@@ -13,3 +13,7 @@ Instalar las dependencias
 `pip install -r requirements.txt`
 
 `run ./main.py`
+
+El enlace de la pagweb o el placeholder aparecera en la terminal
+
+`http://127.0.0.1:5000/`

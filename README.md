@@ -5,7 +5,11 @@
 #Para correr o hostear la pagina:
 
 Clonar el repositorio
+
 `git clone https://github.com/SebastianCueto/Tarea_02_ids_flask_meme_page.git`
+
 Instalar las dependencias
+
 `pip install -r requirements.txt`
+
 `run ./main.py`
